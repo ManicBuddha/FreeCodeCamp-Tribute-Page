@@ -1,0 +1,13 @@
+$blue: #a3d5d3;
+body {
+  background-color: $blue;
+}
+.center{
+    text-align: center;
+    font-size: 150%
+}
+.image-trait{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
