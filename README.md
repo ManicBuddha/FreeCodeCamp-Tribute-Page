@@ -5,4 +5,4 @@ Going to use this to track my progress with Git, command line, and the web
 design languages in the future. Also, CodePen only allows 1 project at a time 
 so I'll just save all the projects via GitHub. Great Learning experiences!
 
-Following theodinprojects step by step! Hope it helps!
+Following theodinprojects step by step! 
